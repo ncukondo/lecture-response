@@ -14,7 +14,7 @@
     "global": "^4.4.0",
     "vue": "^2.6.10",
     "vuefire": "^2.2.0",
-    "vuetify": "^2.1.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.12.0",
